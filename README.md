@@ -23,7 +23,7 @@ I’m **Cristhian**, a frontend dev with **7+ years** crafting interfaces that b
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,litelement,polymer,typescript,vite,tailwind,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,lit,typescript,vite,tailwind,firebase,git,github,vscode&theme=dark" />
 </p>
 
 ---
