@@ -50,6 +50,16 @@
 
 ---
 
+### 🌐 Portfolio & Labs
+
+<p align="center">
+  <a href="https://cris-dev.com" target="_blank">
+    <img src="https://res.cloudinary.com/dcdfhi8qz/image/upload/v1760726744/wd69oziqjrsgjuna1bon.png" width="85%" alt="Preview of cris-dev.com" />
+  </a>
+</p>
+
+---
+
 ### 📬 Connect & Collaborate
 <p align="center">
   <a href="https://co.linkedin.com/in/cristhiandaza" target="_blank">
