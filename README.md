@@ -5,54 +5,64 @@
 </p>
 
 <h1 align="center">💻 Cristhian Daza</h1>
-<p align="center"><i>Frontend Developer — fast, accessible, user-centered web</i></p>
+<p align="center"><i>Frontend Architect — Specializing in high-performance Vue.js & Nuxt ecosystems</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/8+_Years_Exp-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based_in-Colombia-yellow?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/CristhianDaza?style=flat-square&color=gold" />
+</p>
 
 ---
 
-### 🧠 About Me
-I’m **Cristhian**, a frontend dev with **7+ years** crafting interfaces that balance performance, UX, and clean code
+### 🚀 Highlight Project: TODOvue
 
-- Focus: **Vue.js**, **TypeScript**, **Vite**
-- Design mindset: **atomic design**, accessibility, performance
-- Building now:
-  - **TodoVue** – Vue 3 component library
-  - **RedGlobal** – B2B promotional products platform
-  - **FinTrack** – Personal finance app (Firebase)
+<p align="center">
+  <img src="https://res.cloudinary.com/denj4fg7f/image/upload/v1766183906/icono_git_bvxian.png" width="80px" alt="TODOvue Logo" />
+</p>
+
+**TODOvue** is an open-source ecosystem designed to streamline Vue 3 and Nuxt development with accessible, lightweight, and highly customizable components.
+
+<p align="center">
+  <a href="https://todovue.blog" target="_blank">
+    <img src="https://img.shields.io/badge/Docs_%26_Blog-todovue.blog-41b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  </a>
+  <a href="https://www.npmjs.com/search?q=%40todovue" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-Library-cb3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://todovue.blog" target="_blank">
+    <img src="https://res.cloudinary.com/denj4fg7f/image/upload/v1769438449/todovue.blog__azgca0.png" width="85%" alt="TODOvue Blog Preview" style="border-radius: 10px;" />
+  </a>
+</p>
+
+- 🛠️ **Status:** Production-ready and natively built on **Nuxt 4** (Layers & Future-flags).
+- 📖 **Content:** I write about advanced Vue patterns and performance at [todovue.blog](https://todovue.blog).
+- 🧩 **Philosophy:** Atomic design, TypeScript first, and zero unnecessary dependencies.
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,lit,typescript,vite,tailwind,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,typescript,vite,tailwind,lit,firebase,git,github&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Portfolio
-<p align="center">
-  <a href="https://cris-dev.com" target="_blank">
-    <img src="https://res.cloudinary.com/dcdfhi8qz/image/upload/v1760726744/wd69oziqjrsgjuna1bon.png" width="85%" alt="Preview of cris-dev.com" />
-  </a>
-</p>
-<p align="center">
-  <b>🔗 Visit:</b> <a href="https://cris-dev.com" target="_blank">https://cris-dev.com</a>
-</p>
-
----
-
-### 📬 Connect
+### 📬 Connect & Collaborate
 <p align="center">
   <a href="https://co.linkedin.com/in/cristhiandaza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/CristhianDaza" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:cristhian.daza.b@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://cris-dev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-cris--dev.com-41b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Designed & built by <b>@cristhiandaza</b> — inspired by <a href="https://cris-dev.com" target="_blank">CrisDev</a></sub>
+  <sub>Built with ❤️ by <b>@cristhiandaza</b> — Focused on the future of Vue.</sub>
 </p>
